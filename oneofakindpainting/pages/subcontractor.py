@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Display logo at the top
-logo_path = "logo.png"  # Update this path if needed
+logo_path = "oneofakindpainting/logo.png"  # Update this path if needed
 
 if logo_path:  # Check if the path is not empty
     st.image(logo_path, width=300)  # Adjust width as needed
