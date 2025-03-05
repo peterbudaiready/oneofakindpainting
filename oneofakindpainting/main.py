@@ -48,7 +48,7 @@ st.set_page_config(
 )
 
 # Display logo at the top
-logo_path = "logo.png"
+logo_path = "oneofakindpainting/logo.png"
 
 if logo_path:
     st.image(logo_path, width=300)  
