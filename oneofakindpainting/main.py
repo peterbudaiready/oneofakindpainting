@@ -43,7 +43,7 @@ initialize_database()
 # Set page configuration with title and favicon (optional)
 st.set_page_config(
     page_title="My Website",
-    page_icon="logo.png",  
+    page_icon="oneofakindpainting/logo.png",  
     initial_sidebar_state="collapsed"
 )
 
